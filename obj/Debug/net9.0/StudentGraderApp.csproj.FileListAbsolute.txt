@@ -1,0 +1,14 @@
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\bin\Debug\net9.0\StudentGraderApp.exe
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\bin\Debug\net9.0\StudentGraderApp.deps.json
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\bin\Debug\net9.0\StudentGraderApp.runtimeconfig.json
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\bin\Debug\net9.0\StudentGraderApp.dll
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\bin\Debug\net9.0\StudentGraderApp.pdb
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\obj\Debug\net9.0\StudentGraderApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\obj\Debug\net9.0\StudentGraderApp.AssemblyInfoInputs.cache
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\obj\Debug\net9.0\StudentGraderApp.AssemblyInfo.cs
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\obj\Debug\net9.0\StudentGraderApp.csproj.CoreCompileInputs.cache
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\obj\Debug\net9.0\StudentGraderApp.dll
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\obj\Debug\net9.0\refint\StudentGraderApp.dll
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\obj\Debug\net9.0\StudentGraderApp.pdb
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\obj\Debug\net9.0\StudentGraderApp.genruntimeconfig.cache
+D:\CSharp\Projects\StudentGrade\StudentGraderApp\obj\Debug\net9.0\ref\StudentGraderApp.dll
